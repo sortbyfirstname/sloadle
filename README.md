@@ -1,3 +1,11 @@
+# Sloadle
+
+This is a little personal project I made a start on, mostly to gain further exposure to React & TypeScript. The game takes the concept of Wordle (and it's many existing clones) in that it is a 5 turn game that gradually exposes more information on each turn regarding what you are attempting to guess. It is **not** a finished product nor is it playable in it's current state.
+
+![image](https://user-images.githubusercontent.com/26223591/164996924-28b9ea2b-906e-4e71-9b64-282eaa21f3d9.png)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
